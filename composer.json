@@ -6,12 +6,18 @@
     {
       "name": "József Geng",
       "email": "gengjozsef86@gmail.com"
+    },
+    {
+      "name": "Daniel Rose",
+      "email": "daniel-rose@gmx.de"
     }
   ],
   "require": {
     "php": ">=7.3",
+    "fond-of-oryx/splittable-checkout-extension": "^1.0.0",
     "fond-of-oryx/splittable-quote": "^1.0.0",
     "spryker/checkout": "^6.0.0",
+    "spryker/permission": "^1.0.0",
     "spryker/quote": "^2.0.0"
   },
   "require-dev": {
